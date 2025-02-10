@@ -1,22 +1,7 @@
 //Instalar la libreria Grove Digital Light Sensor
 #include <Wire.h>
 #include <Digital_Light_TSL2561.h>
-#define pinJ1A 36
-#define pinJ1B 37
-#define pinJ2A 34
-#define pinJ2B 35
-#define pinJ3A 27
-#define pinJ3B 14
-#define pinJ4A 12
-#define pinJ4B 13
-#define pinJ5A 22
-#define pinJ5B 21
-#define pinJ6A 18
-#define pinJ6B 19
-#define pinJ7A 2
-#define pinJ7B 15
-#define pinJ8A 16
-#define pinJ8B 17
+#include "Deusto.h"
 
 //Se conecta en el J5, no hace falta definir pin Funciona por I2C
 
