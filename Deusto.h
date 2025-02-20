@@ -1,3 +1,10 @@
+
+#include "Button.h"
+
+#define DEBOUNCE_MS 10
+
+#define pinBontonPlaca 0
+#define pinLedPlaca 5
 #define pinJ1 36
 #define pinJ1A 36
 #define pinJ1B 37
