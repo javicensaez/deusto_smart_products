@@ -18,7 +18,7 @@
 
 WiFiMulti wifiMulti;
 
-String openWeatherMapApiKey = "4e5eb7658569dc253fd1fa6ff3bcdfbd";
+String openWeatherMapApiKey = "";
 
 // Replace with your country code and city
 String city = "Bilbao";
