@@ -25,8 +25,8 @@
 #define pinJ7 41
 #define pinJ7A 41
 #define pinJ7B 42
-#define pinJ8 38
-#define pinJ8A 38
+#define pinJ8 39
+#define pinJ8A 39
 #define pinJ8B 40
 #define pinJ9 35
 #define pinJ9A 35
